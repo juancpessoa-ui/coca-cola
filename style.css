@@ -8,16 +8,17 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(#CF2425,#da6062 50%,#da6062 60%, #CF2425 );
 }
+
 
 header, footer {
     height: 100px;
-    background-color: #CF2425;
     color: #FFFFFF;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 20px;
+    padding: 0 10000px;
 }
 
 main {
@@ -25,7 +26,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DA6062;
 }
 header {
     height: 100px;
@@ -61,10 +61,10 @@ main {
 .content-text {
     position: absolute;
     color: #ffffff;
-    font-size: 2.5rem;
-    width: 240px;
+    font-size: 3.75rem;
+    width: 325px;
     transform: translateX(-100%);
-    text-align: end;
+    text-align: center;
 }
 
 .content-image {
