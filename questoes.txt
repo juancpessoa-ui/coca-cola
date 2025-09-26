@@ -14,18 +14,43 @@ Adiciona alteracoes  ao repositorio, adicionamento de um arquivo especifico e ad
 Para que seja adiconado todos os arquivos ao repositorio.
 
 5-Explique o comando git commit e por que é importante criar uma mensagem descritiva.
-
+Cria um provisorio da alteracoes feitas no projeto para ser salvas, já a descricao além de boas praticas serve para documentar as mudancas realizadas.
 
 6-Qual a função do comando git push?
+Envia os commits do repositorio git para o repositorio remoto criando gravacoes de versonamento.
+
 7-Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
+Commit garantem o versonamento e documentacoes para que seja mantido o projeto organizado e atual.
+
 8-Explique a função das tags HTML e como elas estruturam uma página.
+Sao estruturas que definem o conteudo e estrutura da pagina web, organizando os textos,imagens, links e outro elementos.
+
 9-O que são atributos em uma tag HTML e qual a sua função?
+Sao nome/valor inseridos dentro da tag de abertura de um elemento que pode oferecer modificacoes, informacoes e funcionalidades.
+
 10-O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+É um plug para edicao de codigo que pode aumentar aprodutuvidadde usando atalhos na escrita de HTML e CSS.
+
 11-O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+O box sinzing determina as propriedades de padding e border, width, height. Auxiliando em estruturas de edicao e formatacao.
+
 12-Por que é importante utilizar tags semânticas no HTML?
+PAra tornar a pagina mais acessecivel para os usuarios.
+
 13-O que são media queries no CSS e qual a sua função?
+Sao consulta de midias sao modulos de aplicacao de stilo diferentes na mesma pagina com baseno dispositivo dos usuarios.
+
 14-Qual a função do GitHub Pages?
+Publicar  qualquer pagina estatica do qual o push foi feito no repositori.
+
 15-O que é o Flexbox no CSS e para que ele é utilizado?
+Um módulo de layout unidimensional do CSS que permite dispor, alinhar e distribuir espaços entre itens dentro de um contêiner.
+
 16-Qual a diferença entre justify-content e align-items em um container Flexbox?
+O justify-content Controla o alinhamento e a distribuição do espaço entre os itens no eixo principal já o align-items Controla o alinhamento dos itens individuais no eixo transversal, definindo o posicionamento de cada um. 
+
 17-Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+É usada em layouts Flexbox para determinar a capacidade de um item flexível crescer em relação aos outros itens e ocupar o espaço livre restante dentro do contêiner flexível.
+
 18-Explique a diferença entre flex-direction: column; e flex-direction: row
+A diferença fundamental é que flex-direction: row; organiza os itens de um contêiner flexível em uma linha horizontal, da esquerda para a direita (por padrão), enquanto flex-direction: column; os organiza em uma coluna vertical, um abaixo do outro. Ambas as propriedades definem o eixo principal do layout, que determina a direção de alinhamento dos itens. 
